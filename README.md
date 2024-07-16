@@ -90,6 +90,10 @@ The app follows a clean architecture pattern, separating the code into three mai
 - **mockito:**  A mocking framework for creating mock objects during testing. 
 
 
+https://github.com/user-attachments/assets/3a5d0d35-2691-4b78-a61b-546afcdcad15
+
+
+
 ## Getting Started
 
 **1. Clone the repository:**
