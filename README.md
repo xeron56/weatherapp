@@ -95,7 +95,7 @@ The app follows a clean architecture pattern, separating the code into three mai
 **1. Clone the repository:**
 
    ```bash
-   git clone https://github.com/xeron56/weather_app.git
+   git clone https://github.com/xeron56/weatherapp.git
    ```
 
 **2. Install dependencies:**
